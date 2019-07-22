@@ -1,0 +1,19 @@
+sudo apt install openjdk-8-jdk
+  370  java -version
+  371  sudo apt install openjdk-8-jre
+  372  sudo add-apt-repository ppa:webupd8team/java
+  373  sudo apt-get update
+  374  sudo apt-get install oracle-java8-installer
+  375  sudo apt-get install python-software-properties
+  376  sudo apt-get install software-properties-common
+  377  sudo apt-get install python-software-properties
+  378  sudo apt-get install -y python-software-properties
+  379  sudo apt-get install -y software-properties-common
+  380  sudo apt-get install -y python-software-properties
+  381  sudo add-apt-repository ppa:webupd8team/java
+  382  sudo apt-get update
+  383  sudo apt-get install oracle-java8-installer
+  384  sudo update-java-alternatives -l
+  385  sudo update-java-alternatives -s java-1.8.0-openjdk-amd64
+  386  java -version
+

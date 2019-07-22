@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="SBT 2" modules="lsl_p_master,common,exercise_000_initial_state,exercise_001_define_a_class,exercise_002_define_class_parameters,exercise_003_promote_class_parameters,exercise_004_define_a_field,exercise_005_define_a_method,exercise_006_define_an_operator,exercise_007_use_default_arguments,exercise_008_use_packages,exercise_009_define_a_companion_object,exercise_010_check_preconditions,exercise_011_define_case_classes,exercise_012_tests,exercise_013_use_a_sequence,exercise_014_use_map,exercise_015_use_flatmap,exercise_016_use_filter,exercise_017_use_for_expressions,exercise_018_override_tostring,exercise_019_define_an_adt,exercise_020_use_a_trait,exercise_021_use_match_expressions,exercise_022_use_patterns,exercise_023_use_option,exercise_024_use_try">
+      <option name="postfixOps" value="true" />
+      <option name="reflectiveCalls" value="true" />
+      <option name="implicitConversions" value="true" />
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-target:jvm-1.8" />
+        <parameter value="-encoding" />
+        <parameter value="UTF-8" />
+      </parameters>
+    </profile>
+  </component>
+</project>

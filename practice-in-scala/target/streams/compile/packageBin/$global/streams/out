@@ -1,0 +1,35 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/knoldus/Downloads/practice-in-scala/target/scala-2.13/practice-in-scala_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Person$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/practice-in-scala/target/scala-2.13/classes/Person$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Age.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/practice-in-scala/target/scala-2.13/classes/Age.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Calculator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/practice-in-scala/target/scala-2.13/classes/Calculator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/practice-in-scala/target/scala-2.13/classes/Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LastName.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/practice-in-scala/target/scala-2.13/classes/LastName.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Calculator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/practice-in-scala/target/scala-2.13/classes/Calculator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FirstName$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/practice-in-scala/target/scala-2.13/classes/FirstName$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fib.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/practice-in-scala/target/scala-2.13/classes/Fib.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Calculator$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/practice-in-scala/target/scala-2.13/classes/Calculator$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LastName$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/practice-in-scala/target/scala-2.13/classes/LastName$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fib$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/practice-in-scala/target/scala-2.13/classes/Fib$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FirstName$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/practice-in-scala/target/scala-2.13/classes/FirstName$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Age$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/practice-in-scala/target/scala-2.13/classes/Age$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Person$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/practice-in-scala/target/scala-2.13/classes/Person$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fib$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/practice-in-scala/target/scala-2.13/classes/Fib$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FirstName.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/practice-in-scala/target/scala-2.13/classes/FirstName.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

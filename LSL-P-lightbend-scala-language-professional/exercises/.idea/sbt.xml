@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="jdk" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/common" />
+            <option value="$PROJECT_DIR$/common/project" />
+            <option value="$PROJECT_DIR$/exercise_000_initial_state" />
+            <option value="$PROJECT_DIR$/exercise_000_initial_state/project" />
+            <option value="$PROJECT_DIR$/exercise_001_define_a_class" />
+            <option value="$PROJECT_DIR$/exercise_001_define_a_class/project" />
+            <option value="$PROJECT_DIR$/exercise_002_define_class_parameters" />
+            <option value="$PROJECT_DIR$/exercise_002_define_class_parameters/project" />
+            <option value="$PROJECT_DIR$/exercise_003_promote_class_parameters" />
+            <option value="$PROJECT_DIR$/exercise_003_promote_class_parameters/project" />
+            <option value="$PROJECT_DIR$/exercise_004_define_a_field" />
+            <option value="$PROJECT_DIR$/exercise_004_define_a_field/project" />
+            <option value="$PROJECT_DIR$/exercise_005_define_a_method" />
+            <option value="$PROJECT_DIR$/exercise_005_define_a_method/project" />
+            <option value="$PROJECT_DIR$/exercise_006_define_an_operator" />
+            <option value="$PROJECT_DIR$/exercise_006_define_an_operator/project" />
+            <option value="$PROJECT_DIR$/exercise_007_use_default_arguments" />
+            <option value="$PROJECT_DIR$/exercise_007_use_default_arguments/project" />
+            <option value="$PROJECT_DIR$/exercise_008_use_packages" />
+            <option value="$PROJECT_DIR$/exercise_008_use_packages/project" />
+            <option value="$PROJECT_DIR$/exercise_009_define_a_companion_object" />
+            <option value="$PROJECT_DIR$/exercise_009_define_a_companion_object/project" />
+            <option value="$PROJECT_DIR$/exercise_010_check_preconditions" />
+            <option value="$PROJECT_DIR$/exercise_010_check_preconditions/project" />
+            <option value="$PROJECT_DIR$/exercise_011_define_case_classes" />
+            <option value="$PROJECT_DIR$/exercise_011_define_case_classes/project" />
+            <option value="$PROJECT_DIR$/exercise_012_tests" />
+            <option value="$PROJECT_DIR$/exercise_012_tests/project" />
+            <option value="$PROJECT_DIR$/exercise_013_use_a_sequence" />
+            <option value="$PROJECT_DIR$/exercise_013_use_a_sequence/project" />
+            <option value="$PROJECT_DIR$/exercise_014_use_map" />
+            <option value="$PROJECT_DIR$/exercise_014_use_map/project" />
+            <option value="$PROJECT_DIR$/exercise_015_use_flatmap" />
+            <option value="$PROJECT_DIR$/exercise_015_use_flatmap/project" />
+            <option value="$PROJECT_DIR$/exercise_016_use_filter" />
+            <option value="$PROJECT_DIR$/exercise_016_use_filter/project" />
+            <option value="$PROJECT_DIR$/exercise_017_use_for_expressions" />
+            <option value="$PROJECT_DIR$/exercise_017_use_for_expressions/project" />
+            <option value="$PROJECT_DIR$/exercise_018_override_tostring" />
+            <option value="$PROJECT_DIR$/exercise_018_override_tostring/project" />
+            <option value="$PROJECT_DIR$/exercise_019_define_an_adt" />
+            <option value="$PROJECT_DIR$/exercise_019_define_an_adt/project" />
+            <option value="$PROJECT_DIR$/exercise_020_use_a_trait" />
+            <option value="$PROJECT_DIR$/exercise_020_use_a_trait/project" />
+            <option value="$PROJECT_DIR$/exercise_021_use_match_expressions" />
+            <option value="$PROJECT_DIR$/exercise_021_use_match_expressions/project" />
+            <option value="$PROJECT_DIR$/exercise_022_use_patterns" />
+            <option value="$PROJECT_DIR$/exercise_022_use_patterns/project" />
+            <option value="$PROJECT_DIR$/exercise_023_use_option" />
+            <option value="$PROJECT_DIR$/exercise_023_use_option/project" />
+            <option value="$PROJECT_DIR$/exercise_024_use_try" />
+            <option value="$PROJECT_DIR$/exercise_024_use_try/project" />
+            <option value="$PROJECT_DIR$/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.13" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>

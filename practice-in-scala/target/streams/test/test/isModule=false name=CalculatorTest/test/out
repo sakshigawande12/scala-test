@@ -1,0 +1,10 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mCalculatorTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCalculator[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Perform the addition of two integer[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCalculator[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Perform the substraction of two integer[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCalculator[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Perform the Multiplication of two integer[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCalculator[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should Perform the division of two integer *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  6 did not equal 7 (Calculator.scala:31)[0m[0m

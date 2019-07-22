@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Downloads/practice-in-scala/src/test/scala/Calculator.scala:9:26: value addition is not a member of Calculator[0m
+[0m[[0m[31merror[0m] [0m[0m      assert((calculator.addition(10,2))==12)[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

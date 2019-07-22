@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Downloads/scala-assignment-04/src/main/scala/mypack/Queue.scala:26:17: method enQueue overrides nothing[0m
+[0m[[0m[31merror[0m] [0m[0m  override  def enQueue(list : List[Int],num :Int):List[Int]={[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Downloads/scala-assignment-04/src/main/scala/mypack/Queue.scala:38:17: method enQueue overrides nothing[0m
+[0m[[0m[31merror[0m] [0m[0m  override  def enQueue(list : List[Int],num :Int):List[Int]={[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

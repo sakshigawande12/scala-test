@@ -1,0 +1,1 @@
+scalac -bootclasspath /home/knoldus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.0.jar -classpath /home/knoldus/Downloads/scala-ass5/target/scala-2.13/classes /home/knoldus/Downloads/scala-ass5/src/main/scala/FiboTail.scala /home/knoldus/Downloads/scala-ass5/src/main/scala/Banking.scala /home/knoldus/Downloads/scala-ass5/src/main/scala/Maximum1.scala

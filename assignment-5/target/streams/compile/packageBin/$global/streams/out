@@ -1,0 +1,15 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/knoldus/Downloads/assignment-5/target/scala-2.13/assignment-5_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mypack/MaxVal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/assignment-5/target/scala-2.13/classes/mypack/MaxVal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mypack[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/assignment-5/target/scala-2.13/classes/mypack[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF/assignment-5.kotlin_module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/assignment-5/target/scala-2.13/classes/META-INF/assignment-5.kotlin_module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/assignment-5/target/scala-2.13/classes/META-INF[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mypack/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/assignment-5/target/scala-2.13/classes/mypack/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mypack/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/assignment-5/target/scala-2.13/classes/mypack/Main$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

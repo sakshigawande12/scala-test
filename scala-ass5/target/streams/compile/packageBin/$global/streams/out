@@ -1,0 +1,33 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/knoldus/Downloads/scala-ass5/target/scala-2.13/scala-ass5_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/scala-ass5/target/scala-2.13/classes/META-INF[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interpolation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/scala-ass5/target/scala-2.13/classes/Interpolation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF/scala-ass5.kotlin_module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/scala-ass5/target/scala-2.13/classes/META-INF/scala-ass5.kotlin_module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Summation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/scala-ass5/target/scala-2.13/classes/Summation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Maximum$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/scala-ass5/target/scala-2.13/classes/Maximum$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Summation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/scala-ass5/target/scala-2.13/classes/Summation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Summation$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/scala-ass5/target/scala-2.13/classes/Summation$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interpolation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/scala-ass5/target/scala-2.13/classes/Interpolation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Maximum.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/scala-ass5/target/scala-2.13/classes/Maximum.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FibonacciTailRecursive$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/scala-ass5/target/scala-2.13/classes/FibonacciTailRecursive$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FibonacciTailRecursive$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/scala-ass5/target/scala-2.13/classes/FibonacciTailRecursive$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fibbonacci.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/scala-ass5/target/scala-2.13/classes/Fibbonacci.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Maximum$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/scala-ass5/target/scala-2.13/classes/Maximum$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FibonacciTailRecursive.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/scala-ass5/target/scala-2.13/classes/FibonacciTailRecursive.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interpolation$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/scala-ass5/target/scala-2.13/classes/Interpolation$delayedInit$body.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

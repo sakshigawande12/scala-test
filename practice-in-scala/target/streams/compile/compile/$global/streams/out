@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Downloads/practice-in-scala/src/main/scala/Person.scala:4:22: value name is not a member of Person[0m
+[0m[[0m[31merror[0m] [0m[0m  if(this.name==that.name)[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Downloads/practice-in-scala/src/main/scala/Person.scala:5:19: value age is not a member of Person[0m
+[0m[[0m[31merror[0m] [0m[0m    this.age-that.age[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Downloads/practice-in-scala/src/main/scala/Person.scala:7:28: value name is not a member of Person[0m
+[0m[[0m[31merror[0m] [0m[0m     this.name.length-that.name.length[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

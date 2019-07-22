@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common.iml" filepath="$PROJECT_DIR$/.idea/modules/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-build.iml" filepath="$PROJECT_DIR$/.idea/modules/common-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_000_initial_state.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_000_initial_state.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_000_initial_state-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_000_initial_state-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_001_define_a_class.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_001_define_a_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_001_define_a_class-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_001_define_a_class-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_002_define_class_parameters.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_002_define_class_parameters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_002_define_class_parameters-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_002_define_class_parameters-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_003_promote_class_parameters.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_003_promote_class_parameters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_003_promote_class_parameters-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_003_promote_class_parameters-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_004_define_a_field.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_004_define_a_field.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_004_define_a_field-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_004_define_a_field-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_005_define_a_method.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_005_define_a_method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_005_define_a_method-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_005_define_a_method-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_006_define_an_operator.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_006_define_an_operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_006_define_an_operator-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_006_define_an_operator-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_007_use_default_arguments.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_007_use_default_arguments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_007_use_default_arguments-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_007_use_default_arguments-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_008_use_packages.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_008_use_packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_008_use_packages-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_008_use_packages-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_009_define_a_companion_object.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_009_define_a_companion_object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_009_define_a_companion_object-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_009_define_a_companion_object-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_010_check_preconditions.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_010_check_preconditions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_010_check_preconditions-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_010_check_preconditions-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_011_define_case_classes.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_011_define_case_classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_011_define_case_classes-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_011_define_case_classes-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_012_tests.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_012_tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_012_tests-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_012_tests-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_013_use_a_sequence.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_013_use_a_sequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_013_use_a_sequence-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_013_use_a_sequence-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_014_use_map.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_014_use_map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_014_use_map-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_014_use_map-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_015_use_flatmap.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_015_use_flatmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_015_use_flatmap-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_015_use_flatmap-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_016_use_filter.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_016_use_filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_016_use_filter-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_016_use_filter-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_017_use_for_expressions.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_017_use_for_expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_017_use_for_expressions-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_017_use_for_expressions-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_018_override_tostring.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_018_override_tostring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_018_override_tostring-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_018_override_tostring-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_019_define_an_adt.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_019_define_an_adt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_019_define_an_adt-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_019_define_an_adt-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_020_use_a_trait.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_020_use_a_trait.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_020_use_a_trait-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_020_use_a_trait-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_021_use_match_expressions.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_021_use_match_expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_021_use_match_expressions-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_021_use_match_expressions-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_022_use_patterns.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_022_use_patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_022_use_patterns-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_022_use_patterns-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_023_use_option.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_023_use_option.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_023_use_option-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_023_use_option-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_024_use_try.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_024_use_try.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise_024_use_try-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise_024_use_try-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lsl_p_master.iml" filepath="$PROJECT_DIR$/.idea/modules/lsl_p_master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lsl_p_master-build.iml" filepath="$PROJECT_DIR$/.idea/modules/lsl_p_master-build.iml" />
+    </modules>
+  </component>
+</project>
